@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Addyk-24
 - 👀 I’m interested in Technology 
-- 🌱 I’m currently learning 0's and 1's
+- 🌱 I’m currently learning AL/ML
 - 💞️ I’m looking to collaborate on open source and other technology
 - 📫 How to reach me: You can connect me through linkedin , github , Instagram
 - 😄 Pronouns: He/Him
