@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### Just diving Deep into tech
+### Just Dreaming in neural nets.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/addykatkar24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-katkar-673930340) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@addykatkar24)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayk4590@gmail.com) 
