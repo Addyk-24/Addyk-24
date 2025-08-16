@@ -1,5 +1,5 @@
 # 💫 About Me:
-![](https://komarev.com/ghpvc/?username=your-github-username)
+Just dreaming in neural nets!!
 ### Just Dreaming in neural nets.
 
 ## 🌐 Socials:
