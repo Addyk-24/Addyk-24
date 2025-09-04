@@ -7,4 +7,5 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Addyk-24&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Addyk-24&hide_progress=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=False&layout=compact)
+
